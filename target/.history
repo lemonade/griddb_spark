@@ -1,0 +1,8 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/anhvt.TOSHIBA-TSDV/AppData/Local/Temp/sbt-structure.xml
+plugins
+libraryDependencies
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/anhvt.TOSHIBA-TSDV/AppData/Local/Temp/sbt-structure.xml
+baseDirectory
+unmanagedBase
+clean
+reload
